@@ -31,3 +31,7 @@ cd Cookies
 
 # Rode o servidor Flask
 python app.py
+
+# Visualizar o contador
+
+ http://localhost:5000/contador-visitas
